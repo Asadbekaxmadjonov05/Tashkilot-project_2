@@ -8,7 +8,6 @@ function Header() {
                 <GithubOutlined className='text-white scale-[3]' />
                 <h2 className='text-[22px] text-white font-semibold'>Admin panel</h2>
             </div>
-            <LogoutOutlined className='text-white scale-[1.5] cursor-pointer' />
         </div>
     )
 }
